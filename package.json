@@ -1,0 +1,13 @@
+{
+  "name": "trueclick",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "express": "^4.21.2"
+  }
+}
